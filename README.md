@@ -1,4 +1,4 @@
-## Balls To Cup
+## Multi Tube Maze
 
 ### Game Understanding and Development
 
