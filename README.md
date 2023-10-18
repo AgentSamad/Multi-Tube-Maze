@@ -76,10 +76,10 @@ Control Config in which we can set Rotation speed and minimum input threshold
 Also Balls Physics Properties and their random colors list
 
 
-Project Version:
+#### Project Version:
 This project is developed on the Unity Version 2021.3.21f1 
 
-Build Platform:
+ #### Build Platform:
 The Build Platform is Android and build size is 37.5MB & testing device was RealMe GT Master 
 
 
